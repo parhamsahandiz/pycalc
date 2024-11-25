@@ -1,0 +1,15 @@
+1. git add . or file name
+2. git commit -m "message"
+3. git checkout
+git branch
+git status
+git merge. 
+#how to fix merge conflict we 
+to add/upload file, first: git add file
+or use this command: git commit -m "msg"
+or combine those 2 above into this single command: git commit -am "msg"
+
+in log, press q to quit
+git add . means everything/all commits
+ git switch --create decimals
+git pull upstream main : will take from any report we want to our local machine
